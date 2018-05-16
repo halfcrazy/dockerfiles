@@ -1,3 +1,3 @@
-FROM alpine
+FROM centos
 
 CMD ["echo", "123"]
